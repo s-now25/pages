@@ -1,6 +1,8 @@
 # 123Title
 
-[toc]
+* [s1](#s1)
+* [s2](#s2)
+* [s3](#s3)
 
 ## s1
 
@@ -167,4 +169,4 @@
 
 ## s3
 
-[link to s2](README.md#s2)
+[link to s2](#s2)
